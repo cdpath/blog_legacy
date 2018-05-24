@@ -1,0 +1,4 @@
+baseURL = "https://cdpath.xyz/"
+languageCode = "en-us"
+title = "cdpath"
+theme = "kiss"
